@@ -1,3 +1,3 @@
 # Angular-CI-CD-Pipeline-Using-Jenkins-Kubernetes
 
-![alt](intro.png)
+![alt](models/intro.png)
