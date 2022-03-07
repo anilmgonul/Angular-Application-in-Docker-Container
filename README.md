@@ -12,4 +12,10 @@ $ git clone https://github.com/wkrzywiec/aston-villa-app.git
 
 ```
 
-Daha sonra, local dosyamiza girelim. Node.js ve Angular CLI'in local bilgisayarda yukliu olmasi da gerekmekte.
+Daha sonra, local dosyamiza girelim. Node.js ve Angular CLI'in local bilgisayarda yukliu olmasi da gerekmekte. [Buradan](https://angular.io/guide/setup-local) set up yapabiliriz.
+
+Eger onkosullar saglandiysa, Angular uygulamamizi derleyebiliriz.
+
+```
+$ ng build --prod
+```
